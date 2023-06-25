@@ -23,6 +23,9 @@ export default function RootLayout({ children }) {
           <li>
             <a href="#">Sign up</a>
           </li>
+          <li>
+            <a href="#">Log in</a>
+          </li>
         </ul>
       </nav>
         {children}</body>
